@@ -1,0 +1,21 @@
+html {font-family:'GorDIN', 'Bahncshrift SemiBold', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+    button {background-color: blue ;
+color: white;
+border-radius: 10px;
+padding: 10px;
+box-shadow: 2px 2px 10px rgb(120, 119, 119);
+font-family:'GorDIN', 'Bahncshrift SemiBold', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+button:hover {
+    font-family: 'GorDIN', 'Bahnschrift', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: green;
+    border-radius: 20px;
+    color: white;
+    border: gold 5px solid;
+    transition: 0.5s;
+}
+
+img {
+    size: 15%;
+}
